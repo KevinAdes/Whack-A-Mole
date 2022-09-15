@@ -1,0 +1,794 @@
+# Blender MTL File: 'WhackaMonty1.blend'
+# Material Count: 72
+
+newmtl palette
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-0.png
+
+newmtl palette.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-2.png
+
+newmtl palette.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-1.png
+
+newmtl palette.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-4.png
+
+newmtl palette.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-5.png
+
+newmtl palette.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-6.png
+
+newmtl palette.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-7.png
+
+newmtl palette.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-9.png
+
+newmtl palette.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-10.png
+
+newmtl palette.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-11.png
+
+newmtl palette.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-12.png
+
+newmtl palette.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-14.png
+
+newmtl palette.012
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-15.png
+
+newmtl palette.013
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-18.png
+
+newmtl palette.014
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-19.png
+
+newmtl palette.015
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-20.png
+
+newmtl palette.016
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-21.png
+
+newmtl palette.017
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-22.png
+
+newmtl palette.018
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-23.png
+
+newmtl palette.019
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-25.png
+
+newmtl palette.020
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-26.png
+
+newmtl palette.021
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-27.png
+
+newmtl palette.022
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-28.png
+
+newmtl palette.023
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-29.png
+
+newmtl palette.024
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-30.png
+
+newmtl palette.025
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-31.png
+
+newmtl palette.026
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-33.png
+
+newmtl palette.027
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-34.png
+
+newmtl palette.028
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-36.png
+
+newmtl palette.029
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-39.png
+
+newmtl palette.030
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-40.png
+
+newmtl palette.031
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-43.png
+
+newmtl palette.032
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-45.png
+
+newmtl palette.033
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-46.png
+
+newmtl palette.034
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-47.png
+
+newmtl palette.035
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-48.png
+
+newmtl palette.036
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-49.png
+
+newmtl palette.037
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-51.png
+
+newmtl palette.038
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-52.png
+
+newmtl palette.039
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-53.png
+
+newmtl palette.040
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-54.png
+
+newmtl palette.041
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-56.png
+
+newmtl palette.042
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-57.png
+
+newmtl palette.043
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-60.png
+
+newmtl palette.044
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-62.png
+
+newmtl palette.045
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-63.png
+
+newmtl palette.046
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-66.png
+
+newmtl palette.047
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-67.png
+
+newmtl palette.048
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-3.png
+
+newmtl palette.049
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-8.png
+
+newmtl palette.050
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-13.png
+
+newmtl palette.051
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-16.png
+
+newmtl palette.052
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-17.png
+
+newmtl palette.053
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-24.png
+
+newmtl palette.054
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-32.png
+
+newmtl palette.055
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-35.png
+
+newmtl palette.056
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-37.png
+
+newmtl palette.057
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-38.png
+
+newmtl palette.058
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-41.png
+
+newmtl palette.059
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-42.png
+
+newmtl palette.060
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-44.png
+
+newmtl palette.061
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-50.png
+
+newmtl palette.062
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-55.png
+
+newmtl palette.063
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-58.png
+
+newmtl palette.064
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-59.png
+
+newmtl palette.065
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-61.png
+
+newmtl palette.066
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-64.png
+
+newmtl palette.067
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-65.png
+
+newmtl palette.068
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-68.png
+
+newmtl palette.069
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-69.png
+
+newmtl palette.070
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-70.png
+
+newmtl palette.071
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\kevin\\Documents\\MagicaVoxel-0.99.6.4-win64\\export\\Models\\Level Pieces\\WhackaMonty\\Grass_Baseplate-71.png
